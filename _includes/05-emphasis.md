@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Programming languages:
+* HTML
+* CSS
+* JavaScript
+* Java
+* Python
+
+Languages:
+1. English (__Native__)
+2. Portuguese (__Native__)
+3. German (__B2__)
